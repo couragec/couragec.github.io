@@ -1,14 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "陈万毅"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 
----
 
-**陈万毅(Winston Chen)**
+---
 
 我目前是江苏大学的软件工程大四本科生，推免至苏州大学nlp方向，导师是孔芳。
 
@@ -24,6 +23,7 @@ redirect_from:
 
 **经历（Experience）**
 
+2025.3-至今： 蔚来    大模型算法工程师  实习
+
 2024.10-2025.1: 英达视（苏州） 大语言模型  实习
 
-2025.3-至今： 蔚来    大模型算法工程师  实习
