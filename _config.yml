@@ -27,15 +27,15 @@ author:
   pronouns         : "he"# example: "she/her"  
   bio              : "个人介绍"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Soochow University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "571312952@qq.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  # orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
@@ -212,19 +212,18 @@ kramdown:
 
 
 # These settings control the types of collections used by the template
-# 修改这里标题可视化
 collections:
   teaching:
-    output: false
+    output: true
     permalink: /:collection/:path/
   publications:
-    output: false
+    output: true
     permalink: /:collection/:path/
   portfolio:
-    output: false
+    output: ftrue
     permalink: /:collection/:path/
   talks:
-    output: false
+    output: true
     permalink: /:collection/:path/
 
 
